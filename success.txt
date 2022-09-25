@@ -1,0 +1,1 @@
+Created success.txt file after I had successfully resolved issue with my GitHub origin.
